@@ -29,3 +29,24 @@ public class App {
     }
 }
 
+=======
+package mx.uv;
+
+import static spark.Spark.*;
+
+/**
+ * Hello world!
+ *
+ */
+public class App {
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+
+        get("/xml", (request, response) -> {
+            String respuesta = "<x><y/></x>";
+            response.type("application/xml");
+            return respuesta;
+        });
+    }
+}>>>>>>>40 ccde10a509a83d57e197b32d9dbbefaa463808
