@@ -1,0 +1,8 @@
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.csproj.AssemblyReference.cache
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.AssemblyInfoInputs.cache
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.AssemblyInfo.cs
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.csproj.CoreCompileInputs.cache
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manza\OneDrive\Escritorio\Repositorio\78935\practica02\obj\Debug\net6.0\practica02.sourcelink.json
