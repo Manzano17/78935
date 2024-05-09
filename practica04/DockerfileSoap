@@ -1,0 +1,6 @@
+# esta imagen tendra el punte net y SOAP
+from mcr.microsoft.com/dotnet/sdk:5.0
+run dotnet new web -o ejemplo
+workdir /ejemplo
+run dotnet add package SoapCore
+run dotnet dev-certs https --trust
